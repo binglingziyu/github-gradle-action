@@ -1,0 +1,8 @@
+name: 'Execute Gradle task'
+description: 'Execute Gradle task using gradle'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  icon: 'play'
+  color: 'green'
